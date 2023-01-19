@@ -23,9 +23,9 @@
    "lint": "vue-cli-service lint"
 },
 
-How to Run
-2. Open new terminal and Go to frontend directory: run following command: cd frontend
-3. Install dependencies present in package.json file: run following command: npm install
-4. Run the frontend using following command: set NODE_OPTIONS=--openssl-legacy-provider
-5. Run the frontend using following command: $env:NODE_OPTIONS = "--openssl-legacy-provider"
-6. Lastly, Run the frontend using following command: npm run serve
+# How to Run
+1. Open new terminal and Go to frontend directory: run following command: cd frontend
+2. Install dependencies present in package.json file: run following command: npm install
+3. Run the frontend using following command: set NODE_OPTIONS=--openssl-legacy-provider
+4. Run the frontend using following command: $env:NODE_OPTIONS = "--openssl-legacy-provider"
+5. Lastly, Run the frontend using following command: npm run serve
